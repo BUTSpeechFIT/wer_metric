@@ -16,4 +16,4 @@ python -m wer_metric --wer-details wer_stats.txt example/hyp_example.json exampl
 ```
 
 # Install
-run `pip install https://github.com/BUTSpeechFIT/wer_metric.git`
+run `pip install git+https://github.com/BUTSpeechFIT/wer_metric.git`
