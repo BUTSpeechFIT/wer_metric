@@ -14,5 +14,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    packages=["wer_metric"],
     python_requires=">=3.7",
 )
